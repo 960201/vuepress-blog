@@ -10,4 +10,4 @@ git commit -m '二次修改'
 # 连接远程仓库地址
 git remote add origin https://github.com/960201/vuepress-blog.git
 # push到github仓库
-git push
+git push origin master 

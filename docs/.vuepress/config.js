@@ -21,8 +21,8 @@ module.exports = {
         // options选项中的所有参数，会传给Valine的配置
         options: {
           el: "#valine-vuepress-comment",
-          appId: "RJJ7YU5LVoW20exnT3zAufG1-9Nh9j0Va",
-          appKey: "KVViOmqjU7flJu54DLghw9lY",
+          appId: "LELWe58CF8CB3ejMGSfCirqq-gzGzoHsz",
+          appKey: "BWF1hP6lMUOKN07gUs9tOzuY",
         },
       },
     ],

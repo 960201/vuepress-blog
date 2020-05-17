@@ -14,7 +14,7 @@ cd docs/.vuepress/dist
 
 git init
 git add -A
-git commit -m 'deploy阶段'
+git commit -m 'deploy阶段-增加图片放大'
 
 # 如果发布到 https://<USERNAME>.github.io
 git push -f git@github.com:960201/960201.github.io.git master
